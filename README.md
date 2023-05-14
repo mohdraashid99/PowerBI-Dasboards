@@ -13,5 +13,4 @@ https://app.powerbi.com/view?r=eyJrIjoiYjc3NDc3OTUtZmQzNi00NGFjLTg3ODMtMTI0NGNkO
 https://app.powerbi.com/view?r=eyJrIjoiNDdiZmY3YWQtYjAyMC00NDFlLTkxNWMtYzBiODU5ZmNiMGE5IiwidCI6ImJjNDZkYjI0LTgwZjktNGFiMy04MjQwLTlkMDQ1OThkMDZjNiJ9&pageName=ReportSection
 
 **Churn Analysis Bank**
-
-Email: https://app.powerbi.com/view?r=eyJrIjoiMzZmNzIxNjItNDhkZS00Zjc2LThmYzEtYjQ4ZTYyN2UwNjhmIiwidCI6ImJjNDZkYjI0LTgwZjktNGFiMy04MjQwLTlkMDQ1OThkMDZjNiJ9&pageName=ReportSection
+https://app.powerbi.com/view?r=eyJrIjoiMzZmNzIxNjItNDhkZS00Zjc2LThmYzEtYjQ4ZTYyN2UwNjhmIiwidCI6ImJjNDZkYjI0LTgwZjktNGFiMy04MjQwLTlkMDQ1OThkMDZjNiJ9&pageName=ReportSection
